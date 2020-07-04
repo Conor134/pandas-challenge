@@ -1,0 +1,8 @@
+Written Description:
+There were 15 schools that are of two types, District and Charter, with a budget and student population for each school. There is a total of 39,170 students with their Math and Reading Scores in the dataset, which were used to analyse their performances. 
+
+The average summary of the students’ performance was calculated for schools 
+1.	Reading and Math scores are very consistent from 9th to 12th grade across the 15 schools,
+2.	Charter schools far outperformed District schools with and overall passing rate of 97% versus 81%, 
+3.	Small and medium schools have very similar results, which ate much better, ~13.6 % better than larger schools. 
+4.	Most interestingly, the schools with the highest amount of money spent per student has the lowest average passing mark, while the schools in the lower two quartiles of the amount of money spent per student have the best results. 
